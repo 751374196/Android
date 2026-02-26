@@ -75,9 +75,6 @@ dependencies {
     // MySQL 连接
     implementation 'mysql:mysql-connector-java:8.0.33'
 
-    // 权限请求
-    implementation 'com.google.accompanist:accompanist-permissions:0.34.0'
-
     // 图片加载
     implementation 'com.github.bumptech.glide:glide:4.16.0'
     kapt 'com.github.bumptech.glide:compiler:4.16.0'
